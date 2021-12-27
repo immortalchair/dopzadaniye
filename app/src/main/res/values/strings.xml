@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Dopzadaniye</string>
+    <string name="store">Store</string>
+    <string name="plant_1">Plant 1</string>
+    <string name="tokmok">Tokmok</string>
+    <string name="_5_0">5.0</string>
+    <string name="flycatcher">Flycatcher</string>
+    <string name="bishkek">Bishkek</string>
+    <string name="_5_0">5.0</string>
+    <string name="plant2">Plant2</string>
+    <string name="naryn">Naryn</string>
+    <string name="_5_0">5.0</string>
+    <string name="home">home</string>
+    <string name="assisnt">assisnt</string>
+    <string name="shop">shop</string>
+    <string name="plant_catalog">Plant catalog</string>
+    <string name="outdoor">outdoor</string>
+    <string name="plant">Plant.</string>
+    <string name="_78">78$</string>
+    <string name="add">Add</string>
+    <string name="indoor">indoor</string>
+    <string name="popular">Popular</string>
+    <string name="go">Go</string>
+    <string name="flycatcher">Flycatcher</string>
+    <string name="a_species">a species of carnivorous plants from the monotypic genus Dionea of the Dewberry family (Droseraceae). A plant of swampy areas of the east coast of the United States of America (North and South Carolina).</string>
+    <string name="payment_method">Payment method</string>
+    <string name="_50">50$</string>
+    <string name="_10">10$</string>
+    <string name="packaging">Packaging</string>
+    <string name="total">Total</string>
+    <string name="_60">60$</string>
+    <string name="confirm">confirm</string>
+</resources>
